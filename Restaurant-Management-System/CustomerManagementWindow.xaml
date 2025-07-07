@@ -1,0 +1,63 @@
+﻿<Window x:Class="Restaurant_Management_System.CustomerManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Restaurant_Management_System"
+        mc:Ignorable="d"
+        Title="CustomerManagementWindow" Height="500" Width="800" Background="#FFF6EEE3">
+    <DockPanel>
+        <StackPanel Orientation="Horizontal" Height="140" DockPanel.Dock="Top">
+            <Image Height="124" Width="131" Margin="10" Source="/sushi-logo.png"/>
+            <Label Content="Dashboard" Margin="40,50,0,0" FontSize="16" Width="169"/>
+            <Label Content="Customers" Margin="30,50,0,0" FontSize="16" FontWeight="Bold" Width="173"/>
+            <Label Content="Logout" Margin="30,50,0,0" FontSize="16" Width="160"/>
+        </StackPanel>
+
+        <Grid Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2.5*" />
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Header="Customers" Grid.Column="0" Margin="5,5,334,5" Grid.ColumnSpan="2">
+                <StackPanel>
+                    <DataGrid x:Name="CustomerDataGrid" AutoGenerateColumns="False" Margin="5">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding CustomerID}" Width="*"/>
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
+                            <DataGridTextColumn Header="Phone" Binding="{Binding Phone}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <Button Content="Add" Width="129" Margin="5"/>
+                        <Button Content="Edit" Width="130" Margin="5"/>
+                        <Button Content="Delete" Width="129" Margin="5"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Customer Details" Grid.Column="1" Margin="99,5,5,5">
+                <StackPanel Margin="10">
+                    <TextBlock Text="Name:"/>
+                    <TextBox x:Name="CustomerNameTextBox" Margin="0,5"/>
+
+                    <TextBlock Text="Phone:"/>
+                    <TextBox x:Name="CustomerPhoneTextBox" Margin="0,5"/>
+
+                    <TextBlock Text="Email:"/>
+                    <TextBox x:Name="CustomerEmailTextBox" Margin="0,5"/>
+
+                    <TextBlock Text="Notes:"/>
+                    <TextBox x:Name="CustomerNotesTextBox" Margin="0,5" Height="60" TextWrapping="Wrap"/>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+                        <Button Content="Save" Width="75" Margin="5"/>
+                        <Button Content="Cancel" Width="75" Margin="5"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+        </Grid>
+    </DockPanel>
+</Window>
