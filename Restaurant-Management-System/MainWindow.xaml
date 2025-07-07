@@ -8,7 +8,7 @@
         Title="Restaurant-Management-System-UI" Height="450" Width="800">
     <Grid Margin="0,0,0,-6" Background="#FFF6EEE3">
         <Grid>
-            <Image HorizontalAlignment="Left" Height="124" Margin="10,10,0,0" VerticalAlignment="Top" Width="131" Source="/sushi-logo.png" RenderTransformOrigin="0.544,0.517"/>
+            <Image HorizontalAlignment="Left" Height="124" Margin="10,10,0,0" VerticalAlignment="Top" Width="131" Source="resources/sushi-logo.png" RenderTransformOrigin="0.544,0.517"/>
             <Label Content="Dashboard" HorizontalAlignment="Left" Margin="182,50,0,0" VerticalAlignment="Top"/>
             <Label Content="Orders" HorizontalAlignment="Left" Margin="336,50,0,0" VerticalAlignment="Top"/>
             <Label Content="Menu" HorizontalAlignment="Left" Margin="477,50,0,0" VerticalAlignment="Top"/>

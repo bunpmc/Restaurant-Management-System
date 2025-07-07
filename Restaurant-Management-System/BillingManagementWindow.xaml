@@ -8,7 +8,7 @@
         Title="BillingManagementWindow" Height="450" Width="800" Background="#FFF6EEE3">
     <DockPanel>
         <StackPanel Orientation="Horizontal" Height="140" DockPanel.Dock="Top" Background="#FFF6EEE3">
-            <Image Height="124" Width="131" Margin="10" Source="/sushi-logo.png"/>
+            <Image Height="124" Width="131" Margin="10" Source="resources/sushi-logo.png"/>
             <Label Content="Dashboard" Margin="40,50,0,0" FontSize="16" Width="121"/>
             <Label Content="Orders" Margin="30,50,0,0" FontSize="16" Width="80"/>
             <Label Content="Menu" Margin="30,50,0,0" FontSize="16" Width="70"/>

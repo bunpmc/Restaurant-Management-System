@@ -10,7 +10,7 @@
 
         <StackPanel Orientation="Horizontal" Height="140" DockPanel.Dock="Top" Background="#FFF6EEE3">
             <Image HorizontalAlignment="Left" Height="124" Width="131" Margin="10,10,0,0"
-                   VerticalAlignment="Top" Source="/sushi-logo.png" RenderTransformOrigin="0.544,0.517"/>
+                   VerticalAlignment="Top" Source="resources/sushi-logo.png" RenderTransformOrigin="0.544,0.517"/>
             <Label Content="Dashboard" Margin="40,50,0,0" FontSize="16" VerticalAlignment="Top" Cursor="Hand" Width="149"/>
             <Label Content="Orders" Margin="30,50,0,0" FontSize="16" FontWeight="Bold" VerticalAlignment="Top" Cursor="Hand" Width="104"/>
             <Label Content="Menu" Margin="30,50,0,0" FontSize="16" VerticalAlignment="Top" Cursor="Hand" Width="87"/>
