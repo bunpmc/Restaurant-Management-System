@@ -1,0 +1,11 @@
+﻿{
+    "ConnectionStrings": {
+        "MyDbConnection": "Server=DESKTOP-OVHID3G\\SQLEXPRESSNEW;Database=Sakana;User Id=sa;Password=12345;TrustServerCertificate=True;"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
+    }
+}

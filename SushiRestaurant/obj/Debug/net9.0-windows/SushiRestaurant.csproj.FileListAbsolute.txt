@@ -1,0 +1,455 @@
+D:\FPT\SUMMER2025\PRN211\Project\SushiRestaurant\obj\Debug\net9.0-windows\App.g.cs
+D:\FPT\SUMMER2025\PRN211\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.cache
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.AssemblyReference.cache
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\App.g.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.cache
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.lref
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\appsettings.json
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.exe
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.deps.json
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.runtimeconfig.json
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.pdb
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Text.Json.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.dll
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.pdb
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.pdb
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\Bu\Projects\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.pdb
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.baml
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.g.resources
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfoInputs.cache
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfo.cs
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRes.7EB70C4C.Up2Date
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.dll
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\refint\SushiRestaurant.dll
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.pdb
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.genruntimeconfig.cache
+D:\Bu\Projects\Project\SushiRestaurant\obj\Debug\net9.0-windows\ref\SushiRestaurant.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\appsettings.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.exe
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.deps.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.runtimeconfig.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderListWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Reports\ReportsWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderListWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Reports\ReportsWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.lref
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.g.resources
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfoInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfo.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRes.7EB70C4C.Up2Date
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\refint\SushiRestaurant.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.genruntimeconfig.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\ref\SushiRestaurant.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.Interfaces.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.System.Drawing.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\iTextSharp.LGPLv2.Core.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SkiaSharp.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ExportOptionsDialog.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\LowStockReportDialog.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ReportViewerWindow.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ExportOptionsDialog.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\LowStockReportDialog.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ReportViewerWindow.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\CategoryDialog.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuItemDialog.baml
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\CategoryDialog.g.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuItemDialog.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\appsettings.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.exe
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.deps.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.runtimeconfig.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.Interfaces.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.System.Drawing.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\iTextSharp.LGPLv2.Core.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SkiaSharp.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Text.Json.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.AssemblyReference.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\CategoryDialog.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuItemDialog.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderListWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderViewOnlyWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Reports\ReportsWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ExportOptionsDialog.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\LowStockReportDialog.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ReportViewerWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\CategoryDialog.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuItemDialog.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderListWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderViewOnlyWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Reports\ReportsWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ExportOptionsDialog.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\LowStockReportDialog.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ReportViewerWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\App.g.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.lref
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.baml
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.g.resources
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfoInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfo.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRes.7EB70C4C.Up2Date
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\refint\SushiRestaurant.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.genruntimeconfig.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\ref\SushiRestaurant.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\appsettings.json
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.exe
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.deps.json
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.runtimeconfig.json
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SushiRestaurant.pdb
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.Interfaces.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\EPPlus.System.Drawing.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\iTextSharp.LGPLv2.Core.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\SkiaSharp.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\System.Text.Json.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\BusinessObjects.pdb
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Services.pdb
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\bin\Debug\net9.0-windows\Repositories.pdb
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.AssemblyReference.cache
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\CategoryDialog.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuItemDialog.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderListWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderViewOnlyWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Reports\ReportsWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ExportOptionsDialog.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\LowStockReportDialog.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ReportViewerWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\EmployeeAccountWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\CategoryDialog.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuItemDialog.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuManagementWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Menu\MenuSelectionWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderListWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Orders\OrderViewOnlyWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Reports\ReportsWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ExportOptionsDialog.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\LowStockReportDialog.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\ReportViewerWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\Table\TableManagementWindow.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\App.g.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.cache
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant_MarkupCompile.lref
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\LoginWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\MainWindow.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\InvoicePage.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\Payment.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SaleRegister\SaleRegister.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\StockList\StockList.baml
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.g.resources
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfoInputs.cache
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.AssemblyInfo.cs
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.csproj.CoreCompileInputs.cache
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRes.7EB70C4C.Up2Date
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\refint\SushiRestaurant.dll
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.pdb
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\SushiRestaurant.genruntimeconfig.cache
+D:\FinalReport_PRN212\Project\Project\SushiRestaurant\obj\Debug\net9.0-windows\ref\SushiRestaurant.dll

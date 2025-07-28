@@ -1,0 +1,11 @@
+﻿{
+    "ConnectionStrings": {
+        "MyDbConnection": "Server=.\\SQLEXPRESS;Database=SakanaHouse;Integrated Security=true;TrustServerCertificate=True;"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
+    }
+}
