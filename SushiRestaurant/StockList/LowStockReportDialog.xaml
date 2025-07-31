@@ -1,0 +1,63 @@
+<Window x:Class="SushiRestaurant.StockList.LowStockReportDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Low Stock Report Options" Height="350" Width="450"
+        Background="#FAFAFA" FontFamily="Segoe UI" FontSize="14"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,20" HorizontalAlignment="Center">
+            <TextBlock Text="⚠️" FontSize="24" Margin="0,0,10,0"/>
+            <TextBlock Text="Low Stock Alert Report" FontSize="18" FontWeight="Bold" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Action Selection -->
+        <GroupBox Grid.Row="1" Header="Choose Action" Margin="0,0,0,15">
+            <StackPanel Margin="10">
+                <RadioButton x:Name="rbView" Content="📋 View Report on Screen" IsChecked="True" Margin="0,8"/>
+                <RadioButton x:Name="rbExportExcel" Content="📊 Export to Excel" Margin="0,8"/>
+                <RadioButton x:Name="rbExportPdf" Content="📄 Export to PDF" Margin="0,8"/>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Report Features -->
+        <GroupBox Grid.Row="2" Header="Report Features" Margin="0,0,0,15">
+            <StackPanel Margin="10">
+                <TextBlock Text="✓ Identifies items below minimum stock levels" Margin="0,3"/>
+                <TextBlock Text="✓ Highlights out-of-stock items" Margin="0,3"/>
+                <TextBlock Text="✓ Shows shortage quantities" Margin="0,3"/>
+                <TextBlock Text="✓ Includes supplier contact information" Margin="0,3"/>
+                <TextBlock Text="✓ Provides restocking recommendations" Margin="0,3"/>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Alert Info -->
+        <Border Grid.Row="3" Background="#FFF3E0" BorderBrush="#FF9800" BorderThickness="1" 
+                CornerRadius="5" Padding="15" Margin="0,0,0,15">
+            <StackPanel>
+                <TextBlock Text="📢 Important Notice" FontWeight="Bold" Foreground="#E65100" Margin="0,0,0,5"/>
+                <TextBlock Text="Low stock items require immediate attention to prevent stockouts and ensure continuous restaurant operations." 
+                           TextWrapping="Wrap" Foreground="#BF360C"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+            <Button x:Name="btnGenerate" Content="Generate Report" Width="120" Margin="0,0,10,0" 
+                    Background="#FF9800" Foreground="White" Padding="10,8" 
+                    Click="btnGenerate_Click" IsDefault="True"/>
+            <Button x:Name="btnCancel" Content="Cancel" Width="80" 
+                    Background="#757575" Foreground="White" Padding="10,8" 
+                    Click="btnCancel_Click" IsCancel="True"/>
+        </StackPanel>
+    </Grid>
+</Window>

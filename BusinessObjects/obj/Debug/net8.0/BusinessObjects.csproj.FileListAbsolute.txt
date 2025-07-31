@@ -1,0 +1,68 @@
+D:\Bu\Projects\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Bu\Projects\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\Project\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\FinalReport_PRN212\Project\Project\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\New folder\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\New folder\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\New folder\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+D:\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\New folder\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\New folder\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\Bu\New folder\New folder\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Bu\New folder\New folder\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\New folder\New folder\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\New folder\New folder\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

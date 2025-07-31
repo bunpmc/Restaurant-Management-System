@@ -1,0 +1,96 @@
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\Services.deps.json
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\Services.dll
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\Services.pdb
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\Repositories.dll
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\Repositories.pdb
+D:\Bu\Projects\Project\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.dll
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\Services.pdb
+D:\Bu\Projects\Project\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\Services.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\Repositories.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\Repositories.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Services\obj\Debug\net8.0\ref\Services.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Services.deps.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Services.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Services.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Repositories.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Repositories.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\ref\Services.dll
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Services.deps.json
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Services.dll
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Services.pdb
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Repositories.dll
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\Repositories.pdb
+D:\FinalReport_PRN212\Project\Project\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.dll
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\refint\Services.dll
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\Services.pdb
+D:\FinalReport_PRN212\Project\Project\Services\obj\Debug\net8.0\ref\Services.dll
+D:\New folder\Services\bin\Debug\net8.0\Services.deps.json
+D:\New folder\Services\bin\Debug\net8.0\Services.dll
+D:\New folder\Services\bin\Debug\net8.0\Services.pdb
+D:\New folder\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\New folder\Services\bin\Debug\net8.0\DataAccessLayer.dll
+D:\New folder\Services\bin\Debug\net8.0\Repositories.dll
+D:\New folder\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\New folder\Services\bin\Debug\net8.0\Repositories.pdb
+D:\New folder\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\New folder\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\New folder\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\New folder\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\New folder\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\New folder\Services\obj\Debug\net8.0\Services.sourcelink.json
+D:\New folder\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\New folder\Services\obj\Debug\net8.0\Services.dll
+D:\New folder\Services\obj\Debug\net8.0\refint\Services.dll
+D:\New folder\Services\obj\Debug\net8.0\Services.pdb
+D:\New folder\Services\obj\Debug\net8.0\ref\Services.dll

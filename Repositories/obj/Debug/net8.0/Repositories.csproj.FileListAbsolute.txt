@@ -1,0 +1,104 @@
+D:\Bu\Projects\Project\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Bu\Projects\Project\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Bu\Projects\Project\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Bu\Projects\Project\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\Project\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Bu\Projects\Project\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FinalReport_PRN212\Project\Project\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\FinalReport_PRN212\Project\Project\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\New folder\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\New folder\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\New folder\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\New folder\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\New folder\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\New folder\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\New folder\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\New folder\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\New folder\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\New folder\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\New folder\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\Bu\New folder\New folder\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Bu\New folder\New folder\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Bu\New folder\New folder\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Bu\New folder\New folder\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\New folder\New folder\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\New folder\New folder\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\New folder\New folder\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Bu\New folder\New folder\Repositories\obj\Debug\net8.0\ref\Repositories.dll

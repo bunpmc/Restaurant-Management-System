@@ -1,0 +1,206 @@
+﻿<Window x:Class="SushiRestaurant.Menu.MenuSelectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sakana House - MenuSelectionWindow"
+        Height="600"
+        Width="1000"
+        Background="#FFFDFDFD"
+        FontFamily="Segoe UI"
+        FontSize="14">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2.5*"/>
+            <!-- Order Info -->
+            <ColumnDefinition Width="4.5*"/>
+            <!-- TabControl -->
+        </Grid.ColumnDefinitions>
+
+        <!-- LEFT: Order Info -->
+        <StackPanel Grid.Column="0"
+                Margin="10">
+            <TextBlock Text="Sakana House POS 2.0"
+                    FontSize="18"
+                    FontWeight="Bold"
+                    HorizontalAlignment="Center"/>
+            <TextBlock Text="Admin"
+                    HorizontalAlignment="Center"
+                    Foreground="#777"/>
+            <TextBlock Text="Terminal (3)"
+                    HorizontalAlignment="Center"
+                    Foreground="#777"/>
+
+            <!-- Order Grid -->
+            <DataGrid x:Name="OrderGrid"
+                    AutoGenerateColumns="False"
+                    CanUserAddRows="False"
+                    Height="200"
+                    Margin="0,0,0,10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID"
+                            Binding="{Binding ID}"
+                            Width="40"/>
+                    <DataGridTextColumn Header="Items"
+                            Binding="{Binding Items}"
+                            Width="150"/>
+                    <DataGridTextColumn Header="Price"
+                            Binding="{Binding Price}"
+                            Width="70"/>
+                    <DataGridTextColumn Header="Qty"
+                            Binding="{Binding Qty}"
+                            Width="60"/>
+                    <DataGridTextColumn Header="Total"
+                            Binding="{Binding Total}"
+                            Width="80"/>
+                    <DataGridTextColumn Header="Tax"
+                            Binding="{Binding Tax}"
+                            Width="60"/>
+                    <DataGridTextColumn Header="Options"
+                            Binding="{Binding Options}"
+                            Width="120"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Summary -->
+            <StackPanel>
+                <TextBlock x:Name="txtTotal"
+                        Text="Total: $0.00"/>
+                <TextBlock x:Name="txtDiscount"
+                        Text="Discount: $0.00"/>
+                <TextBlock x:Name="txtSubtotal"
+                        Text="Subtotal: $0.00"/>
+                <TextBlock x:Name="txtTax"
+                        Text="Tax: $0.00"/>
+                <TextBlock x:Name="txtTotalPayable"
+                        Text="Total Payable: $0.00"
+                        FontWeight="Bold"/>
+                <TextBlock x:Name="txtItemTypes"
+                        Text="Item Types: 0"/>
+            </StackPanel>
+
+            <!-- Action Buttons -->
+            <StackPanel Orientation="Horizontal"
+                    Margin="0,15,0,0"
+                    HorizontalAlignment="Center">
+                <Button x:Name="btnPayment"
+                        Content="Payment"
+                        Width="100"
+                        Margin="5"
+                        Background="#1976D2"
+                        Foreground="White"
+                        Click="btnPayment_Click"/>
+                <Button x:Name="btnGenerateQR"
+                        Content="Generate QR Code"
+                        Width="120"
+                        Margin="5"
+                        Background="#6A1B9A"
+                        Foreground="White"
+                        Click="btnGenerateQR_Click"/>
+                <Button x:Name="btnBill"
+                        Content="Bill Update"
+                        Width="120"
+                        Margin="5"
+                        Background="#6A1B9A"
+                        Foreground="White"
+                        Click="btnBill_Click"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- RIGHT: Tabs for Menu + Table -->
+        <TabControl Grid.Column="1"
+                Margin="10">
+
+            <!-- MENU TAB -->
+            <TabItem Header="Menu">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.2*"/>
+                        <ColumnDefinition Width="2.8*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Category Selection -->
+                    <StackPanel Grid.Column="0"
+                            Margin="10">
+                        <TextBlock Text="Search Category"
+                                FontWeight="SemiBold"
+                                HorizontalAlignment="Center"/>
+                        <ComboBox x:Name="CategoryCombo"
+                                Width="200"
+                                Margin="0,10"
+                                SelectionChanged="CategoryCombo_SelectionChanged"/>
+                        <TextBlock Text="Double Click for Qty increase"
+                                FontSize="11"
+                                Foreground="#777"
+                                Margin="0,10"
+                                HorizontalAlignment="Center"/>
+                        <Button x:Name="HomeMenu"
+                                Content="Back to Home"
+                                Width="140"
+                                Height="35"
+                                Background="#9E9E9E"
+                                Foreground="White"
+                                Click="btnHomeMenu_Click"/>
+                    </StackPanel>
+
+                    <!-- Menu Items -->
+                    <ScrollViewer Grid.Column="1">
+                        <ItemsControl x:Name="MenuItemsControl"
+                                Margin="10">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <Button Content="{Binding Name}"
+                                                Width="100"
+                                                Height="80"
+                                                Background="#F8BBD0"
+                                                MouseDoubleClick="MenuItem_MouseDoubleClick"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+
+            <!-- TABLE TAB -->
+            <TabItem Header="Table">
+                <StackPanel Margin="10">
+                    <!-- Order Type -->
+                    <StackPanel Orientation="Horizontal"
+                            Margin="0,0,0,10">
+                        <TextBlock Text="Order Type:"
+                                FontWeight="SemiBold"
+                                VerticalAlignment="Center"
+                                Margin="0,0,10,0"/>
+                        <RadioButton Content="Dine-In"
+                                GroupName="OrderType"
+                                IsChecked="True"
+                                Margin="5"/>
+                        <RadioButton Content="Takeaway"
+                                GroupName="OrderType"
+                                Margin="5"/>
+                    </StackPanel>
+
+                    <!-- Table Buttons -->
+                    <GroupBox Header="Select Table"
+                            FontWeight="SemiBold"
+                            Margin="0,0,0,10">
+                        <ItemsControl x:Name="TableItemsControl">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <Button Content="{Binding Id}"
+                                                Width="60"
+                                                Height="40"
+                                                Foreground="White"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </GroupBox>
+                </StackPanel>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>

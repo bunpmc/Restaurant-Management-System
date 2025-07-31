@@ -1,0 +1,239 @@
+﻿<Window x:Class="SushiRestaurant.SaleRegister.SaleRegister"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SushiRestaurant.SaleRegister"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="SaleRegister"
+        Height="450"
+        Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <DockPanel Grid.Row="0"
+                Background="#FF4A90E2"
+                LastChildFill="True">
+            <TextBlock Text="DynamicSoft POS 2.0"
+                    Foreground="White"
+                    FontSize="20"
+                    Margin="10"
+                    DockPanel.Dock="Left"/>
+            <TextBlock Text="admin"
+                    Foreground="White"
+                    Margin="10"
+                    DockPanel.Dock="Left"/>
+            <TextBlock Text="{x:Static sys:DateTime.Now}"
+                    Foreground="White"
+                    Margin="10"
+                    HorizontalAlignment="Right"
+                    DockPanel.Dock="Right"/>
+        </DockPanel>
+
+        <!-- Main Content -->
+        <Grid Grid.Row="1"
+                Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Left Panel: Order Details -->
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Terminal (2)"
+                        Margin="5"
+                        FontSize="14"/>
+                <StackPanel Grid.Row="1"
+                        Margin="5">
+                    <StackPanel Orientation="Horizontal"
+                            Margin="0,0,0,5">
+                        <TextBlock Text="California Roll"
+                                Width="150"/>
+                        <TextBlock Text="4.99"
+                                Width="50"
+                                Margin="10,0,0,0"/>
+                        <TextBlock Text="1"
+                                Width="50"
+                                Margin="10,0,0,0"/>
+                        <TextBlock Text="4.99"
+                                Width="50"
+                                Margin="10,0,0,0"/>
+                        <TextBlock Text="10%"
+                                Width="100"
+                                Margin="10,0,0,0"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal"
+                            Margin="0,0,0,5">
+                        <TextBlock Text="Spicy Tuna Roll"
+                                Width="150"/>
+                        <TextBlock Text="5.49"
+                                Width="50"
+                                Margin="10,0,0,0"/>
+                        <TextBlock Text="1"
+                                Width="50"
+                                Margin="10,0,0,0"/>
+                        <TextBlock Text="5.49"
+                                Width="50"
+                                Margin="10,0,0,0"/>
+                        <TextBlock Text="10%"
+                                Width="100"
+                                Margin="10,0,0,0"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <!-- Right Panel: Item Selection -->
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Horizontal"
+                        Margin="5">
+                    <TextBox x:Name="SearchBox"
+                            Width="200"
+                            Margin="0,0,10,0"
+                            Text="Insert Barcode"/>
+                    <Button Content="Search"
+                            Margin="0,0,5,0"/>
+                </StackPanel>
+                <WrapPanel Grid.Row="1"
+                        Margin="5">
+                    <StackPanel Width="100"
+                            Margin="5">
+                        <TextBlock Text="Sushi Rolls"
+                                FontWeight="Bold"/>
+                        <Button Content="California Roll"
+                                Margin="2"/>
+                        <Button Content="Spicy Tuna Roll"
+                                Margin="2"/>
+                        <Button Content="Rainbow Roll"
+                                Margin="2"/>
+                    </StackPanel>
+                    <StackPanel Width="100"
+                            Margin="5">
+                        <TextBlock Text="Nigiri"
+                                FontWeight="Bold"/>
+                        <Button Content="Salmon Nigiri"
+                                Margin="2"/>
+                        <Button Content="Tuna Nigiri"
+                                Margin="2"/>
+                        <Button Content="Ebi Nigiri"
+                                Margin="2"/>
+                    </StackPanel>
+                    <StackPanel Width="100"
+                            Margin="5">
+                        <TextBlock Text="Sashimi"
+                                FontWeight="Bold"/>
+                        <Button Content="Salmon Sashimi"
+                                Margin="2"/>
+                        <Button Content="Tuna Sashimi"
+                                Margin="2"/>
+                        <Button Content="Yellowtail Sashimi"
+                                Margin="2"/>
+                    </StackPanel>
+                    <StackPanel Width="100"
+                            Margin="5">
+                        <TextBlock Text="Drinks"
+                                FontWeight="Bold"/>
+                        <Button Content="Green Tea"
+                                Margin="2"/>
+                        <Button Content="Sake"
+                                Margin="2"/>
+                        <Button Content="Ramune"
+                                Margin="2"/>
+                    </StackPanel>
+                    <StackPanel Width="100"
+                            Margin="5">
+                        <TextBlock Text="Appetizers"
+                                FontWeight="Bold"/>
+                        <Button Content="Edamame"
+                                Margin="2"/>
+                        <Button Content="Miso Soup"
+                                Margin="2"/>
+                        <Button Content="Tempura"
+                                Margin="2"/>
+                    </StackPanel>
+                    <StackPanel Width="100"
+                            Margin="5">
+                        <TextBlock Text="Desserts"
+                                FontWeight="Bold"/>
+                        <Button Content="Mochi"
+                                Margin="2"/>
+                        <Button Content="Green Tea Ice Cream"
+                                Margin="2"/>
+                    </StackPanel>
+                </WrapPanel>
+            </Grid>
+        </Grid>
+
+        <!-- Footer: Payment Details -->
+        <Grid Grid.Row="2"
+                Background="#FFE0E0E0"
+                Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0"
+                    Orientation="Vertical"
+                    Margin="5">
+                <TextBlock Text="Total"
+                        FontWeight="Bold"/>
+                <TextBlock Text="Discount"/>
+                <TextBlock Text="Sub Total"/>
+                <TextBlock Text="Tax"/>
+                <TextBlock Text="Total Payable"
+                        FontWeight="Bold"/>
+                <TextBlock Text="Total Item Types"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1"
+                    Orientation="Vertical"
+                    HorizontalAlignment="Right"
+                    Margin="5">
+                <TextBlock Text="10.48"
+                        FontWeight="Bold"/>
+                <TextBlock Text="0.50"/>
+                <TextBlock Text="10.48"/>
+                <TextBlock Text="0.50"/>
+                <TextBlock Text="10.98"
+                        FontWeight="Bold"/>
+                <TextBlock Text="2"/>
+            </StackPanel>
+            <StackPanel Grid.Column="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Margin="5">
+                <Button Content="Cash Sale"
+                        Background="#FF2E7D32"
+                        Foreground="White"
+                        Margin="5"/>
+                <Button Content="Payment"
+                        Background="#FF0288D1"
+                        Foreground="White"
+                        Margin="5"/>
+                <Button Content="Suspend"
+                        Background="#FFEF6C00"
+                        Foreground="White"
+                        Margin="5"/>
+                <Button x:Name="btnBackToMain"
+                        Content="Back to Main"
+                        Background="#6A1B9A"
+                        Foreground="White"
+                        Margin="5"
+                        Click="btnBackToMain_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

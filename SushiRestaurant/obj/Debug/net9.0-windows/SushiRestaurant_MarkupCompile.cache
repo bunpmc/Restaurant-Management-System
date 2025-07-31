@@ -1,0 +1,20 @@
+﻿SushiRestaurant
+
+
+winexe
+C#
+.cs
+D:\Bu\New folder\New folder\SushiRestaurant\obj\Debug\net9.0-windows\
+SushiRestaurant
+none
+false
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Bu\New folder\New folder\SushiRestaurant\App.xaml
+191980242211
+
+221493975553
+248-160236719
+EmployeeAccountWindow.xaml;LoginWindow.xaml;MainWindow.xaml;Menu\CategoryDialog.xaml;Menu\MenuItemDialog.xaml;Menu\MenuManagementWindow.xaml;Menu\MenuSelectionWindow.xaml;Menu\QRDialog.xaml;Orders\OrderListWindow.xaml;Orders\OrderViewOnlyWindow.xaml;Reports\ReportsWindow.xaml;SaleRegister\InvoicePage.xaml;SaleRegister\Payment.xaml;SaleRegister\SaleRegister.xaml;StockList\ExportOptionsDialog.xaml;StockList\LowStockReportDialog.xaml;StockList\ReportViewerWindow.xaml;StockList\StockList.xaml;Table\TableManagementWindow.xaml;
+
+False
+

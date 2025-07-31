@@ -1,0 +1,104 @@
+D:\Bu\Projects\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Bu\Projects\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\Bu\Projects\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Bu\Projects\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\Project\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\NGUYEN NHAT AN\Desktop\Project\Project\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\Bu\Projects\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\FinalReport_PRN212\Project\Project\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\New folder\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\New folder\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\New folder\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Bu\New folder\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Bu\New folder\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\Bu\New folder\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\New folder\New folder\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\New folder\New folder\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Bu\New folder\New folder\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\Bu\New folder\New folder\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
