@@ -3700,23 +3700,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ms YEN\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Liam\\.nuget\\packages\\": {},
+    "D:\\Softwares\\TextEditor\\VStudio\\shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bu\\New folder\\New folder\\SushiRestaurant\\SushiRestaurant.csproj",
+      "projectUniqueName": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\SushiRestaurant\\SushiRestaurant.csproj",
       "projectName": "SushiRestaurant",
-      "projectPath": "D:\\Bu\\New folder\\New folder\\SushiRestaurant\\SushiRestaurant.csproj",
-      "packagesPath": "C:\\Users\\Ms YEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Bu\\New folder\\New folder\\SushiRestaurant\\obj\\",
+      "projectPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\SushiRestaurant\\SushiRestaurant.csproj",
+      "packagesPath": "C:\\Users\\Liam\\.nuget\\packages\\",
+      "outputPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\SushiRestaurant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Softwares\\TextEditor\\VStudio\\shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ms YEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Liam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3731,11 +3731,11 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\Bu\\New folder\\New folder\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\Bu\\New folder\\New folder\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "D:\\Bu\\New folder\\New folder\\Services\\Services.csproj": {
-              "projectPath": "D:\\Bu\\New folder\\New folder\\Services\\Services.csproj"
+            "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\Services\\Services.csproj": {
+              "projectPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\Services\\Services.csproj"
             }
           }
         }
@@ -3788,7 +3788,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

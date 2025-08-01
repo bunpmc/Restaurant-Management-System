@@ -92,7 +92,7 @@ namespace SushiRestaurant.StockList {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;V1.0.0.0;component/stocklist/reportviewerwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;component/stocklist/reportviewerwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\StockList\ReportViewerWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

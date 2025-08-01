@@ -228,7 +228,7 @@ namespace SushiRestaurant.Orders {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;V1.0.0.0;component/orders/orderlistwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;component/orders/orderlistwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Orders\OrderListWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -85,7 +85,7 @@ namespace SushiRestaurant.SaleRegister {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;V1.0.0.0;component/saleregister/payment.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;component/saleregister/payment.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\SaleRegister\Payment.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

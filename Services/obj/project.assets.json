@@ -3685,23 +3685,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ms YEN\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Liam\\.nuget\\packages\\": {},
+    "D:\\Softwares\\TextEditor\\VStudio\\shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bu\\New folder\\New folder\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\Bu\\New folder\\New folder\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\Ms YEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Bu\\New folder\\New folder\\Services\\obj\\",
+      "projectPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\Liam\\.nuget\\packages\\",
+      "outputPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Softwares\\TextEditor\\VStudio\\shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ms YEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Liam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3716,11 +3716,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Bu\\New folder\\New folder\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\Bu\\New folder\\New folder\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "D:\\Bu\\New folder\\New folder\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\Bu\\New folder\\New folder\\Repositories\\Repositories.csproj"
+            "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Softwares\\Projects\\VStudio\\prn-other-fork\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -3773,7 +3773,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

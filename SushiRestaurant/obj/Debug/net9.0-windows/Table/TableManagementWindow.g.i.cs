@@ -76,7 +76,7 @@ namespace SushiRestaurant.Table {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;V1.0.0.0;component/table/tablemanagementwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;component/table/tablemanagementwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Table\TableManagementWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

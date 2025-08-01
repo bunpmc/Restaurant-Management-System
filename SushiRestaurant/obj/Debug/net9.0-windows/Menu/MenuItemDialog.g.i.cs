@@ -156,7 +156,7 @@ namespace SushiRestaurant.Menu {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;V1.0.0.0;component/menu/menuitemdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;component/menu/menuitemdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Menu\MenuItemDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

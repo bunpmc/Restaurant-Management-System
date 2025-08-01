@@ -180,7 +180,7 @@ namespace SushiRestaurant.Reports {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;V1.0.0.0;component/reports/reportswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;component/reports/reportswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Reports\ReportsWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

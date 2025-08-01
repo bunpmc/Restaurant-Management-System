@@ -269,7 +269,7 @@ namespace SushiRestaurant.StockList {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;V1.0.0.0;component/stocklist/stocklist.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SushiRestaurant;component/stocklist/stocklist.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\StockList\StockList.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
