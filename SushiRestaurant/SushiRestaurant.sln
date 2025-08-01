@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "..\Reposito
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "..\Services\Services.csproj", "{B83A87BB-88F4-4507-95DB-6A07C1051ACE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer.Test", "..\DataAccessLayer.Test\DataAccessLayer.Test.csproj", "{8A1E0CFC-66D0-4474-A40B-009C2A19534B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SushiRestaurant.Test", "..\SushiRestaurant.Test\SushiRestaurant.Test.csproj", "{DA6DD418-BBDD-4E04-B50C-E57D78F143E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B83A87BB-88F4-4507-95DB-6A07C1051ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B83A87BB-88F4-4507-95DB-6A07C1051ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B83A87BB-88F4-4507-95DB-6A07C1051ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1E0CFC-66D0-4474-A40B-009C2A19534B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1E0CFC-66D0-4474-A40B-009C2A19534B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1E0CFC-66D0-4474-A40B-009C2A19534B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1E0CFC-66D0-4474-A40B-009C2A19534B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6DD418-BBDD-4E04-B50C-E57D78F143E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6DD418-BBDD-4E04-B50C-E57D78F143E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6DD418-BBDD-4E04-B50C-E57D78F143E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6DD418-BBDD-4E04-B50C-E57D78F143E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
